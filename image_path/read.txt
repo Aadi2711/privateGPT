@@ -1,0 +1,1 @@
+This folder will contain all the pages turned into images and will get flush once the task is completed.
