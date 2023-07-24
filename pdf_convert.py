@@ -30,7 +30,7 @@ def extract_text_from_pdf(input_pdf_path, output_txt_folder):
 
 def main():
     # Path to the input PDF
-    input_pdf_path = "image_path/Pro.pdf"
+    input_pdf_path = "image_path/Encryption.pdf"
 
     # Folder to store the output text file
     output_txt_folder = "source_documents"
